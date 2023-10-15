@@ -1,0 +1,6 @@
+/frontend
+**/__pycache__
+config.json
+/venv
+/static/attachments
+
